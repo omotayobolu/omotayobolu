@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omotayobolu
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning bootstrap
 - 💞️ I’m looking to collaborate on learning more and building projects 
 - 📫 How to reach me @omotayodaniel10@gmail.com 
 
