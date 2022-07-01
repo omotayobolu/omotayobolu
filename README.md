@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omotayobolu
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on  
 - 📫 How to reach me @omotayodaniel10@gmail.com 
 
