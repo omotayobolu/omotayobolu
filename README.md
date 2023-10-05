@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/bolu_xy" target="blank"><img src="https://img.shields.io/twitter/follow/bolu_xy?logo=twitter&style=for-the-badge" alt="bolu_xy" /></a> </p>
 
-- 🌱 I’m currently learning **React javascript**
+- 🌱 I’m currently learning **javascript**
 
-- 👯 I’m looking to collaborate on **react projects**
+- 👯 I’m looking to collaborate on **web projects**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **front-end web development**
 
 - 📫 How to reach me **omotayodaniel10@gmail.com**
 
