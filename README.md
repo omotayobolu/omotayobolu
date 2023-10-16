@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Boluwatife Omotayo</h1>
 <h3 align="center">A passionate frontend developer from Nigeria.</h3>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Javascript and typescript**
 
-- 👨‍💻 All of my projects are available at [https://omotayobolu.github.io/portfolio/](https://omotayobolu.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://omotayobolu.netlify.app/](https://omotayobolu.netlify.app/)
 
 - 💬 Ask me about **frontend web development with reactjs**
 
 - 📫 How to reach me **omotayodaniel10@gmail.com**
 
-- ⚡ Fun fact **lol**
+- ⚡ Fun fact **I'm not fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
