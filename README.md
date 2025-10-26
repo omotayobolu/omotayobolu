@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Boluwatife Omotayo</h1>
+
 - 🌱 I’m currently learning **software engineering**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://boluomotayo.vercel.app/)
