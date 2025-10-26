@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Boluwatife Omotayo</h1>
-<h3 align="center">A passionate frontend developer from Nigeria.</h3>
-
 - 🌱 I’m currently learning **software engineering**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://omotayobolu.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://boluomotayo.vercel.app/)
 
-- 💬 Ask me about **frontend web development with reactjs**
+- 💬 Ask me about **software development**
 
 - 📫 How to reach me **omotayodaniel10@gmail.com**
 
